@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\Metric-Mark-Sheet-in-WinForm\Metric-Mark-Sheet-in-WinForm\bin\Debug\Metric-Mark-Sheet-in-WinForm.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Metric-Mark-Sheet-in-WinForm\Metric-Mark-Sheet-in-WinForm\bin\Debug\Metric-Mark-Sheet-in-WinForm.exe
+c:\users\admin\documents\visual studio 2015\Projects\Metric-Mark-Sheet-in-WinForm\Metric-Mark-Sheet-in-WinForm\bin\Debug\Metric-Mark-Sheet-in-WinForm.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Metric-Mark-Sheet-in-WinForm\Metric-Mark-Sheet-in-WinForm\obj\Debug\Metric-Mark-Sheet-in-WinForm.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Metric-Mark-Sheet-in-WinForm\Metric-Mark-Sheet-in-WinForm\obj\Debug\Metric_Mark_Sheet_in_WinForm.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Metric-Mark-Sheet-in-WinForm\Metric-Mark-Sheet-in-WinForm\obj\Debug\Metric_Mark_Sheet_in_WinForm.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Metric-Mark-Sheet-in-WinForm\Metric-Mark-Sheet-in-WinForm\obj\Debug\Metric-Mark-Sheet-in-WinForm.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Metric-Mark-Sheet-in-WinForm\Metric-Mark-Sheet-in-WinForm\obj\Debug\Metric-Mark-Sheet-in-WinForm.exe
+c:\users\admin\documents\visual studio 2015\Projects\Metric-Mark-Sheet-in-WinForm\Metric-Mark-Sheet-in-WinForm\obj\Debug\Metric-Mark-Sheet-in-WinForm.pdb
